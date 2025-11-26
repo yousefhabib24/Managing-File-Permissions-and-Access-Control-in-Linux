@@ -20,4 +20,4 @@ Key tasks included removing unnecessary write access for public users, adjusting
 
 ### 📂 Repository Contents
 
-* [`Access Control and File Permissions in Linux.pdf`](./Access%20Control%20and%20File%20Permissions%20in%20Linux.pdf): The complete project report, including command outputs and analysis.
+* [`Access Control and File permissions in Linux.pdf`](./Access%20Control%20and%20File%20Permissions%20in%20Linux.pdf): The complete project report, including command outputs and analysis.
